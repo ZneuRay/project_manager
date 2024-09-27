@@ -2,6 +2,8 @@
 
 A very simple GUI application to manage your Node.js projects.
 
+<img width="705" alt="image" src="https://github.com/user-attachments/assets/1ebb6f84-f211-45ba-a8b2-c137b8984a88">
+
 ## Features
 
 - **Start**, **stop**, and **restart** your Node.js projects from a graphical interface.
